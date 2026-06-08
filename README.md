@@ -23,6 +23,19 @@ Python, Streamlit, LangChain, ChromaDB, Gemini AI
 
 Utpal Talukdar
 
-## Demo
+## Demo Screenshot
+
 
 ![PDF RAG Chatbot](Screenshot%20(7930).png)
+
+
+## How to Run
+
+1. Clone repository
+2. Install requirements
+3. Add Gemini API key
+4. Run:
+
+```bash
+streamlit run app.py
+```
