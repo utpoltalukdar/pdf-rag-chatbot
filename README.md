@@ -22,3 +22,7 @@ Python, Streamlit, LangChain, ChromaDB, Gemini AI
 ## Author
 
 Utpal Talukdar
+
+## Demo
+
+![PDF RAG Chatbot](Screenshot%20(7930).png)
